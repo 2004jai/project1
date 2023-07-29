@@ -1,0 +1,18 @@
+body{
+    background-image: url(360_F_376849795_GsFsIZLocYqHzbcwk0JBj6NiDxfJk4ir.jpg);
+    background-size: contain;
+    
+}
+.relocated-text {
+    position: relative; /* Set the position property to relative */
+    left: 130px; /* Move the text 50 pixels to the right from its normal position */
+    top: 10px; /* Move the text 20 pixels down from its normal position */
+  }
+  .relocated{
+    position: relative;
+    left: 810px;
+    bottom: 600px;
+   
+
+  }
+  
